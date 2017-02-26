@@ -1,6 +1,20 @@
 # Site navigation links
+- title: JS
+  url: /JS/
+  excerpt: "JavaScript is my dream."
+  image: skinny-bones-demo.gif
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: GWT
+  url: /GWT/
+  excerpt: "Java  + GWT is my work."
+  image: skinny-bones-demo.gif
+
+# - title: ML/DL
+#   url: /ML/
+#   excerpt: "Python + ML/DL is my lab."
+#   image: skinny-bones-demo.gif
+
+- title: Cheat Sheets
+  url: /CheatSheet/
+  excerpt: "Cheat sheets are my helpers."
+  image: skinny-bones-demo.gif
