@@ -6,6 +6,8 @@ image:
   teaser: gwt_logo.png
 ---
 
+#### EventBus, MVP
+
 ##### EventBus
 
 The Event Bus is a mechanism for a) passing events and b) registering to be notified of some subset of these events.  
